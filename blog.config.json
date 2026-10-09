@@ -1,0 +1,39 @@
+{
+  "siteName": "Launchpoint",
+  "siteUrl": "https://murzzsite.github.io/launchpoint-sales",
+  "lang": "ru",
+  "repo": "murzzsite/launchpoint-sales",
+  "ref": "8Q4A5UEEDA",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи о построении и развитии отдела продаж B2B от Launchpoint",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Launchpoint",
+    "jobTitle": "Консалтинг по продажам B2B",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку — разберём вашу ситуацию и подскажем следующий шаг.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#contact",
+  "disclaimer": "",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/",
+    "/privacy.html"
+  ],
+  "indexNowKey": "ede9a8a93e8e205013c360bd8ee96afb",
+  "previewSecret": "6f1f5c5d9c50e359",
+  "theme": {
+    "accent": "var(--brand)",
+    "accent-soft": "var(--accent-soft)",
+    "bg": "var(--bg)",
+    "surface": "var(--card)",
+    "text": "var(--text)",
+    "soft": "var(--brand-soft)",
+    "line": "var(--border)"
+  }
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /launchpoint-sales/blog/preview/
+
+Sitemap: https://murzzsite.github.io/launchpoint-sales/sitemap.xml
