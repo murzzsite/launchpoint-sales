@@ -1,16 +1,14 @@
 {
   "site": "https://murzzsite.github.io/launchpoint-sales",
   "updated": "2026-10-11",
-  "awaiting": [
+  "awaiting": [],
+  "scheduled": [],
+  "published": [
     {
       "slug": "kak-postroit-otdel-prodazh",
-      "path": "articles/kak-postroit-otdel-prodazh.md",
       "title": "Как построить отдел продаж с нуля: 8 шагов для B2B-компании",
-      "description": "Как построить отдел продаж B2B с нуля: структура, найм, скрипты, CRM, мотивация и контроль. Пошаговый план, ошибки и ориентиры по стоимости.",
-      "reading_time": "9 мин чтения",
-      "preview_url": "https://murzzsite.github.io/launchpoint-sales/blog/preview/65a0079e8ec6/kak-postroit-otdel-prodazh/"
+      "url": "https://murzzsite.github.io/launchpoint-sales/blog/kak-postroit-otdel-prodazh/",
+      "date": "2026-10-11"
     }
-  ],
-  "scheduled": [],
-  "published": []
+  ]
 }
